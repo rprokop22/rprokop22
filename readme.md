@@ -12,7 +12,7 @@
 
 </div>
 
-## </br>
+</br>
 
 ## Current Tech Stack
 
@@ -101,12 +101,13 @@
 
 <!-- Jest -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/> 
-<!-- storybook -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="50" height="50"/>
+
 
 ### Next in line to learn
 
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />
 
   </div>
